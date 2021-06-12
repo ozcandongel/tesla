@@ -1,0 +1,25 @@
+body {
+  background: -webkit-linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  color: #fff;
+  font-family: Consolas, Courier, monospace;
+  font-size: 60px;
+  text-shadow: 0 0 15px #411;
+  height: 100%;
+}
+
+div {
+  position: relative;
+  top: 50%;
+  margin: 280px auto;
+  text-align: center;
+}
+
+.glow {
+  color: #fff;
+  text-shadow: 0px 0px 10px #fff;
+}
+
+span {
+  display: inline-block;
+  padding: 0 10px;
+}
